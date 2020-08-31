@@ -1,1 +1,1 @@
-.darts.whl
+-r ./darts.whl
