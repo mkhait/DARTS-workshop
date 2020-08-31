@@ -1,1 +1,1 @@
--r ./darts.whl
+./darts.whl
